@@ -34,7 +34,8 @@ I'm Ishan Jarwal, a passionate developer with a love for web technologies and op
 
 ## 📚 Check Out My Projects
 
-- 🔥 [Full Stack Blog App](https://github.com/ishanjarwal/mern-stack-blog-app)
+- 🔥 [Full Stack Blog App](https://github.com/ishanjarwal/fullstack-mern-blog-application)
+
 
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or just chat about our common interests. 😊
