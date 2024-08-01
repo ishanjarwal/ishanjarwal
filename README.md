@@ -33,7 +33,8 @@ I'm Ishan Jarwal, a passionate developer with a love for web technologies and op
 - 💼 Let's connect on [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ishanjarwal/)[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ishanjarwal/)
 
 ## 📚 Check Out My Projects
-
+- 🔥 [Sneaker Ecommerce Store](https://mern-sneaker-store.vercel.app)
+- 🔥 [My NextJS Portfolio](https://jarwal.vercel.app)
 - 🔥 [Full Stack Blog App](https://github.com/ishanjarwal/fullstack-mern-blog-application)
 
 
